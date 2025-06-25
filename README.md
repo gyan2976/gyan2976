@@ -11,22 +11,9 @@
 
 ### 📊 GitHub Stats
 ![Gyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyan2976&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2976&layout=compact&theme=radical)
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=gyan2976&show_icons=true&theme=radical" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2976&layout=compact&theme=radical" /></td>
-    </tr>
-  </table>
-</div>
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyan2976&theme=radical)
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=gyan2976&theme=onedark)
 
 ### 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gyan2976&theme=github)
