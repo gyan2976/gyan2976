@@ -5,6 +5,12 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=gyan2976&color=blue)](https://github.com/gyan2976)
 [![GitHub Followers](https://img.shields.io/github/followers/gyan2976?style=social)](https://github.com/gyan2976)
 
+<!-- Badges (centered) -->
+<div align="center">
+  [![Profile Views](https://komarev.com/ghpvc/?username=gyan2976&color=blue)](https://github.com/gyan2976)
+  [![GitHub Followers](https://img.shields.io/github/followers/gyan2976?style=social)](https://github.com/gyan2976)
+</div>
+
 ### 📊 GitHub Stats
 ![Gyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyan2976&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2976&layout=compact&theme=radical)
