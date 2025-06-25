@@ -13,6 +13,12 @@
 ![Gyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyan2976&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2976&layout=compact&theme=radical)
 
+<!-- Parallel Stats Cards (Same Height & Width) -->
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gyan2976&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 195px; width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2976&layout=compact&theme=radical" alt="Top Languages" style="height: 195px; width: 400px;" />
+</div>
+
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gyan2976&theme=radical)
 
