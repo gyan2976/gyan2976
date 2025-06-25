@@ -2,8 +2,7 @@
   <h2> Hi 👋, I'm Gyan </h2>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gyan2976&color=blue)](https://github.com/gyan2976)
-![GitHub Followers](https://img.shields.io/github/followers/gyan2976?style=social)](https://github.com/gyan2976)
+
 
 <!-- Badges (centered) -->
 <div align="center">
